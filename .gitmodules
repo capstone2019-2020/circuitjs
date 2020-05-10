@@ -1,0 +1,3 @@
+[submodule "rwalgebrajs"]
+	path = rwalgebrajs
+	url = https://github.com/capstone2019-2020/rwalgebrajs.git

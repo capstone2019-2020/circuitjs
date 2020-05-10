@@ -2,7 +2,7 @@
 // Circuit API for circuit analysis
 const nl = require('./netlist.js');
 const assert = require('assert');
-const algebra = require('../RWalgebra/RWalgebra.js');
+const algebra = require('./rwalgebra/RWalgebra.js');
 const math = require('mathjs');
 const Expression = algebra.Expression;
 const Equation = algebra.Equation;
